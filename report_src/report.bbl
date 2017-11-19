@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{DBLP:journals/corr/SeoKFH16}
+M.~J. Seo, A.~Kembhavi, A.~Farhadi, and H.~Hajishirzi, ``Bidirectional
+  attention flow for machine comprehension,'' {\em CoRR}, vol.~abs/1611.01603,
+  2016.
+
+\bibitem{DBLP:journals/corr/ChenFWB17}
+D.~Chen, A.~Fisch, J.~Weston, and A.~Bordes, ``Reading wikipedia to answer
+  open-domain questions,'' {\em CoRR}, vol.~abs/1704.00051, 2017.
+
+\bibitem{DBLP:journals/corr/abs-1709-02755}
+T.~Lei and Y.~Zhang, ``Training rnns as fast as cnns,'' {\em CoRR},
+  vol.~abs/1709.02755, 2017.
+
+\end{thebibliography}

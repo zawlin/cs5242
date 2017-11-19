@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Problem definition}{}% 1
+\BOOKMARK [1][-]{section.2}{Models investigated}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{BiDAF}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{DrQA}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Simple Recurrent Unit \(SRU\)}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Ensembling}{}% 6
+\BOOKMARK [1][-]{section.4}{Dataset pre-processing description}{}% 7
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 8
+\BOOKMARK [1][-]{section.6}{Reflection And Findings}{}% 9

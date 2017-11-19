@@ -1,0 +1,7 @@
+* Please ownload the trained models from https://drive.google.com/drive/folders/1PLZsq5SV_lbbUdXLUrXo19iX9eibruoR?usp=sharing.
+* NOTE:Latest version of spacy doesn't work. We run with spacy version 1.8.2. If you accidentally installed version 2.0, you may need to purge it from your system by
+  manually deleting the python package folder instead of using pip since it seems to be bugged. You will also need to removed the models for version 2 and redownload version 1.8.2
+* GPU ram of at least 12GB is required, to train 256 batch size models about 17gb is required.
+* We used CUDA 8 with cudnn
+* we provide the ensembling code separately in the root directory. It only requires final output csv. 
+  For bi-att-flow, we forgot exactly which model was used and simply downloaded the kaggle csv to perform ensembling but it should be models around it ~20k.
